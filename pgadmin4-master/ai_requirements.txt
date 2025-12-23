@@ -1,0 +1,12 @@
+google-generativeai
+requests
+flask
+flask-security-too
+flask-sqlalchemy
+psycopg2-binary
+simplejson
+boto3
+botocore
+user-agents
+pyotp
+qrcode
