@@ -15,7 +15,7 @@
 
 Kullanıcılarına **Hibrit Bir Yapı** sunar:
 1.  🔒 **Tam Gizlilik (Ollama):** Verileriniz bilgisayarınızdan çıkmadan, yerel `qwen2.5-coder` modeli ile analiz yapılır.
-2.  ⚡ **Hız ve Performans (Google Gemini):** Daha karmaşık analizler veya anlık sonuçlar için Google'ın Gemini 1.5 Flash/Pro modelleri devreye girer.
+2.  ⚡ **Hız ve Performans (Google Gemini):** Daha karmaşık analizler veya anlık sonuçlar için Google'ın Gemini 2.5 Flash modelleri devreye girer.
 
 Veri analistleri ve geliştiriciler, SQL bilmeseler dahi bu araçla veritabanlarıyla sohbet edebilir, grafikler çizebilir ve sorgu optimizasyonu yapabilirler.
 
