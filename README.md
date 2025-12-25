@@ -40,7 +40,7 @@ Karmaşık `JOIN` tablolarını ezberlemenize gerek yok.
 
 ### 4. 🛠️ Akıllı SQL Düzeltici (`duzelt:`)
 Hata veren sorguları analiz eder ve düzeltilmiş halini sunar.
-* **Komut:** `duzelt: SELCT * FORMSAQ users` 
+* **Komut:** `duzelt: SELCT * FORMSAQ users` (Yada query panelindeki tüm sql kodlarını Ctrl + A yapıp seçin düzelt butonuna tıklayın)
 * **Çıktı:** `SELECT * FROM users`
 
 ### 5. 🚀 Performans Optimizasyonu (`hizlandir:`)
