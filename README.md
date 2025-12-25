@@ -4,7 +4,7 @@
 
 ![Docker](https://img.shields.io/badge/Docker-Container-blue?logo=docker) ![Python](https://img.shields.io/badge/Python-3.11-yellow?logo=python) ![Ollama](https://img.shields.io/badge/AI-Ollama%20Local-orange) ![Gemini](https://img.shields.io/badge/AI-Google%20Gemini-blue?logo=google) ![Status](https://img.shields.io/badge/Status-Experimental-red)
 
-> **⚠️ YASAL UYARI (DISCLAIMER)**
+> **⚠️ UYARI (DISCLAIMER)**
 > Bu proje, veritabanı yönetim araçlarına LLM entegrasyonunu test etmek amacıyla geliştirilmiş **deneysel (experimental)** bir Ar-Ge çalışmasıdır. `exec()` fonksiyonu kullanımı ve opsiyonel internet erişimi (Gemini modu için) nedeniyle güvenlik riskleri barındırabilir. **Production (Canlı/Kurumsal) ortamda kullanılması önerilmez.** Sadece geliştirme ve test ortamları içindir.
 
 ---
